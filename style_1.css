@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.first{
+    height: 7px;
+    width: 100%;
+    background-color: #1098ad;
+}
+.main {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 70px;
+  
+  }
+nav {
+    background-color: #f7f7f7;
+  }
+h2,h1,span {
+    color: #1098ad;
+    margin-right: 25px;
+  }
+.body1{
+    padding: 20px;
+}
+
+.body2{
+    margin-top:30px;
+}
+img {
+    margin-top: 20px;
+    width: 100%;
+  }
+p {
+    margin-top: 10px;
+    color: #131212;
+  
+}
+

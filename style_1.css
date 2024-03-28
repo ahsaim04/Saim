@@ -1,6 +1,8 @@
 *{
     padding: 0;
     margin: 0;
+
+    
 }
 
 .first{
@@ -19,6 +21,7 @@ nav {
   }
 h2,h1,span {
     color: #1098ad;
+    margin-top: 10px;
     margin-right: 25px;
   }
 .body1{
@@ -26,15 +29,28 @@ h2,h1,span {
 }
 
 .body2{
-    margin-top:30px;
+    padding-left:25%;
+    padding-right: 25%;
 }
 img {
     margin-top: 20px;
     width: 100%;
   }
 p {
-    margin-top: 10px;
+    margin-top: 20px;
     color: #131212;
   
 }
-
+li {
+    margin-left: 20px;
+    color: #444444;
+}
+ol {
+    margin-top: 10px;
+  }
+ul {
+    margin-top: 10px;
+  }
+.wh{
+      margin-top: 25px;
+  }

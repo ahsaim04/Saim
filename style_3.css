@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 450px;
+    padding: 70px;
+  }
+.Blog {
+    padding-top: 10px;
+    padding-bottom: 40px;
+    }
+  
+.card {
+    max-width: 350px;
+    text-align: start;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+.imgA {
+    width: 310px;
+    height: 180px;
+  }
+.imgB {
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+  }
+  
+.second{
+    padding-top: 15px;
+  
+    display: flex;
+  }
+
+.details {
+    padding-left: 8px;
+    padding-top: 3px;
+  }
+.main {
+    padding: 18px;
+  }
+h3 {
+    padding-top: 8px;
+  }
+
+p {
+    line-height: 25px;
+    color: #6b7280;
+    padding-top: 8px;
+  }
+h4 {
+    color: #4f46e5;
+  }
+.Blog {
+    padding-top: 10px;
+    padding-bottom: 40px;
+  }
+  
